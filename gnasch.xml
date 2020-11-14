@@ -1,8 +1,3 @@
-<Script file="MyAddon.lua"/>
-<Frame name="MyAddon">
-    <Scripts>
-        <OnLoad> 
-            MyAddon_OnLoad();
-        </OnLoad>
-    </Scripts>
-</Frame>
+<Ui xmlns='http://www.blizzard.com/wow/ui/'>
+    <Script file='gnasch.lua'/>
+</Ui>
