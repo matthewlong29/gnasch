@@ -1,0 +1,8 @@
+<Script file="MyAddon.lua"/>
+<Frame name="MyAddon">
+    <Scripts>
+        <OnLoad> 
+            MyAddon_OnLoad();
+        </OnLoad>
+    </Scripts>
+</Frame>
